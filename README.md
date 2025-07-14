@@ -43,6 +43,8 @@ python call_monitor.py
 - **Sentiment Score**: Ranges from -1 (very negative) to 1 (very positive)
 - **Subjectivity**: Ranges from 0 (very objective) to 1 (very subjective)
 - **Sentiment Categories**: Positive, Neutral, or Negative
+##Screenshots
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/3cd13f76-d3b6-4764-afd0-37eb819eb6c9" />
 
 ## Notes
 
