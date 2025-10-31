@@ -1,5 +1,10 @@
 # Real-time Call Conversation Monitor
 
+
+
+https://github.com/user-attachments/assets/8dd97544-1483-4eda-bf29-b1043c525697
+
+
 This Python application monitors and analyzes call conversations in real-time, providing sentiment analysis and behavioral insights from the audio input and output of your device.
 
 ## Features
